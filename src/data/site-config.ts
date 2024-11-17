@@ -50,10 +50,11 @@ const siteConfig: SiteConfig = {
             text: 'Home',
             href: '/'
         },
-        {
-            text: 'Projects',
-            href: '/projects'
-        },
+        // {
+        //     text: 'Projects',
+        //     href: '/projects'
+        // }
+        // ,
         {
             text: 'News',
             href: '/news'
@@ -84,8 +85,8 @@ const siteConfig: SiteConfig = {
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: 'LinkedIn',
+            href: 'https://www.linkedin.com/in/angel-ford-edd-1ba6bb38'
         },
         {
             text: 'Instagram',
