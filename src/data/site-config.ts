@@ -99,10 +99,10 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Moto',
-        text: "Research interests are closely tied to areas of equity both within the United States and internationally. These interests include improving learning environments; students and educator motivations, aspirations, well-being, and persistence; fair and equitable partnerships and collaborations; global social justice in scholarly communication, and the benefits of cross-disciplinary/national and international investigations.",
+        text: "Research interests closely tied to areas of equity both within the United States and internationally. These interests include improving learning environments; students and educator motivations, aspirations, well-being, and persistence; fair and equitable partnerships and collaborations; global social justice in scholarly communication, and the benefits of cross-disciplinary/national and international investigations.",
         image: {
             src: '/TransparentWhite.png',
-            alt: 'A person sitting at a desk in front of a computer'
+            alt: 'Epistemic Justice Lab'
         },
         actions: [
             {
