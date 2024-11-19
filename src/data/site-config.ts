@@ -59,11 +59,11 @@ const siteConfig: SiteConfig = {
             text: 'News',
             href: '/news'
         }
-        // ,
-        // {
-        //     text: 'Tags',
-        //     href: '/tags'
-        // }
+        ,
+        {
+            text: 'About',
+            href: '/about'
+        }
     ],
     footerNavLinks: [
         {
@@ -73,15 +73,16 @@ const siteConfig: SiteConfig = {
         {
             text: 'Contact',
             href: '/contact'
-        },
-        {
-            text: 'Terms',
-            href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
         }
+        // ,
+        // {
+        //     text: 'Terms',
+        //     href: '/terms'
+        // },
+        // {
+        //     text: 'Download theme',
+        //     href: 'https://github.com/JustGoodUI/dante-astro-theme'
+        // }
     ],
     socialLinks: [
         {
@@ -89,13 +90,13 @@ const siteConfig: SiteConfig = {
             href: 'https://www.linkedin.com/in/angel-ford-edd-1ba6bb38'
         },
         {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
+            text: 'Google Scholar',
+            href: 'https://scholar.google.com/citations?authuser=1&user=OYNq04YAAAAJ'
         },
-        {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
-        }
+        // {
+        //     text: 'X/Twitter',
+        //     href: 'https://twitter.com/'
+        // }
     ],
     hero: {
         title: 'Moto',

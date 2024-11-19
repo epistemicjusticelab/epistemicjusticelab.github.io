@@ -1,7 +1,7 @@
 ---
-title: 'EcoBuddy: Sustainable Living App'
-description: EcoBuddy is a mobile app that gamifies sustainable living. Users can set eco-friendly goals, track their carbon footprint, and earn virtual rewards for adopting environmentally conscious habits.
-publishDate: 'Jan 02 2024'
+title: 'The Professional Learning Needs of School Principals'
+description: Qualitative research aimed to identify the preparation needs of principals from the perspective of school superintendents in the southeastern United States.
+publishDate: 'Jun 26 2020'
 seo:
   image:
     src: '/project-1.jpg'
@@ -10,57 +10,15 @@ seo:
 
 ![Project preview](/project-1.jpg)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+<!-- **Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/). -->
 
-**Project Overview:**
-EcoBuddy is a revolutionary mobile application designed to make sustainable living accessible, engaging, and rewarding. With a focus on gamification and real-world impact, EcoBuddy encourages users to adopt eco-friendly habits, reduce their carbon footprint, and contribute to a healthier planet.
+**Abstract**
+The purpose of this qualitative research was to identify the preparation needs of principals through the lens of school superintendents in the southeastern United States. This research was based on a collaborative university, multi-school district partnership. Superintendents were interviewed to determine their perceptions regarding the professional learning needs of principals. Three themes emerged from the analysis:(a) principal perception of community matters, (b) formal support is necessary, but challenging to schedule and scope, and (c) instructional and operational leadership are differentiated. These findings present several implications for university and district-based leadership preparation programs, both individually and collaboratively.
 
-## Objectives
+## Authors
 
-1. Develop a user-friendly mobile app that motivates individuals to adopt sustainable practices in their daily lives.
-2. Utilize gamification elements to make sustainable living fun and interactive.
-3. Provide educational resources and personalized challenges to empower users to make informed eco-conscious decisions.
+Arvin D. Johnson , Nicholas Clegorne, Sheryl J. Croft, and **Angela Y. Ford2**
 
-## Features
+## Link
 
-1. **EcoScore and Challenges:**
-
-- Users are assigned an EcoScore based on their sustainable activities and choices.
-- Daily and weekly challenges encourage users to adopt new habits and compete with friends or the community to earn EcoPoints.
-
-2. **Personalized Eco-Goals:**
-
-- Users can set and track personalized eco-goals, such as reducing plastic usage, conserving water, or choosing eco-friendly transportation.
-- The app provides tips and suggestions to help users achieve their goals.
-
-3. **Green Rewards Marketplace:**
-
-- EcoPoints earned through challenges and sustainable actions can be redeemed in a virtual Green Rewards Marketplace.
-- The marketplace offers discounts on eco-friendly products, services, and even contributions to environmental causes.
-
-4. **Community Hub:**
-
-- A community feature allows users to connect, share their eco-friendly achievements, and inspire others.
-- Users can join local eco-groups, organize clean-up events, and collaborate on sustainability projects.
-
-5. **EcoEducator AI Assistant:**
-
-- An AI-powered assistant, EcoEducator, provides personalized eco-tips, facts, and information based on users' preferences and habits.
-- Users can chat with EcoEducator for instant advice on sustainable living.
-
-## Technology Stack
-
-- Frontend: React Native for cross-platform mobile app development.
-- Backend: Firebase for real-time data synchronization and user authentication.
-- Database: Firestore for scalable and flexible data storage.
-- AI Integration: Dialogflow for natural language processing and conversation with EcoEducator.
-
-## Outcome
-
-EcoBuddy has successfully created a community of environmentally conscious individuals who actively participate in sustainable living practices. The app not only educates and motivates users but also provides tangible rewards for their commitment to a greener lifestyle, fostering a positive impact on the environment.
-
-## Client Testimonial
-
-> We couldn't be happier with the results delivered by Ethan Donovan. From the initial concept discussions to the final product, their responsiveness and collaborative approach were impressive. Our startup's website now stands out, thanks to their creative input and commitment to excellence.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+[file](https://d1wqtxts1xzle7.cloudfront.net/97212693/194277512093393320230112-1-1be5dw0-libre.pdf?1673563822=&response-content-disposition=inline%3B+filename%3DThe_Professional_Learning_Needs_of_Schoo.pdf&Expires=1732047486&Signature=eX-I7Pvikuk8gi9dOqRmsvWO35qnCIcyVCrfzs0Y-5J7GoW2U3ZUVoiRraV5htW6WteVoSRzDT0-mf38tQsslN73yFtwH3qP6P0UA1sEFr1AKMNpNO23TOl2LavVlBEJ2xxE0L8GNnLzKxy0metE6iWbJd29j-vplkM4MoyN4WAvA5OkawToKOdGiBbnCVeBSFQt4SJIraahhMpmPMZx0RiVOUAH07hkjy7MTIXBbtR4Sb3pab7EXbGpJIVtR3dConNLqH5Avtp~zqZkj1~CRFlLZ72lqeUZEM21hnGdR8wMy7ZN8hsUGUQKZ4Y70LP8MXK2bdUl24bXYFeVNzl7VQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)

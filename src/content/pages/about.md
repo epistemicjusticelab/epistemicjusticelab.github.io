@@ -20,6 +20,10 @@ seo:
 
 - BA Psychology, Saint Leo University
 
+### Links
+
+- [Google Scholar](https://scholar.google.com/citations?authuser=1&user=OYNq04YAAAAJ)
+
 ### Bio
 
 I joined the College of Emergency Preparedness, Homeland Security and Cybersecurity (CEHC) at the University at Albany in July 2023. She arrives with a diverse set of professional, teaching, and research experiences including positions as an Assistant Professor of Educational Research, and as a researcher in several higher education programs and partnerships. In 2019-2020, Dr. Ford was a Fulbright Scholar to Addis Ababa University in Ethiopia, teaching and conducting research. While she was in Ethiopia, she also taught PhD research courses in Information Science for Jimma University where she continues to support their growing Information Science program.
