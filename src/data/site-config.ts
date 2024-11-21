@@ -38,7 +38,7 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Epistemic Justice Lab',
+    title: 'Global Epistemic Justice Lab',
     subtitle: 'CEHC',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
