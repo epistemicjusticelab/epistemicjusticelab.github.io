@@ -10,7 +10,7 @@ seo:
 
 ![Alt text for image](/SmallBioPic.jpg)
 
-## Angel Ford, Assitant Professor, CEHC
+## Angel Ford, Assistant Professor, CEHC
 
 ### Education
 
