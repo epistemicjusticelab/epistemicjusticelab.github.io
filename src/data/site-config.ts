@@ -50,11 +50,11 @@ const siteConfig: SiteConfig = {
             text: 'Home',
             href: '/'
         },
-        // {
-        //     text: 'Projects',
-        //     href: '/projects'
-        // }
-        // ,
+        {
+            text: 'Collaborators',
+            href: '/collaborators'
+        }
+        ,
         {
             text: 'News',
             href: '/news'
@@ -102,7 +102,7 @@ const siteConfig: SiteConfig = {
         title: 'Moto',
         text: "Research interests closely tied to areas of equity both within the United States and internationally. These interests include improving learning environments; students and educator motivations, aspirations, well-being, and persistence; fair and equitable partnerships and collaborations; global social justice in scholarly communication, and the benefits of cross-disciplinary/national and international investigations.",
         image: {
-            src: '/TransparentWhite.png',
+            src: '/WhiteText.png',
             alt: 'Epistemic Justice Lab'
         },
         actions: [
